@@ -13,5 +13,5 @@ https://twitter.com/the_cmcommunity
 https://www.facebook.com/groups/cloudmc/
 
 ### YouTube
-https://www.youtube.com/channel/UCvGu4AIoZxB0NV7o-yUuQ2A
+https://www.youtube.com/c/cloudmanagementcommunity
 

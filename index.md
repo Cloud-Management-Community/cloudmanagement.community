@@ -7,10 +7,10 @@ Cloud Management refers to the management of end user devices, identities and th
 ## Upcoming Live Events
 
 ### September 14th
-CMC Live - September 14th Event.md
+[September 14th Event Page](September14th.md)
 
 ### September 28th
-
+[September 28th Event Page](September28th.md)
 
 
 ## Social Media Links

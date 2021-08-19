@@ -18,7 +18,7 @@ widgetType: 'checkout',
 eventId: '167198532311',
 iframeContainerId: 'eventbrite-widget-container-167198532311',
 // Optional
-iframeContainerHeight: 625,  // Widget height in pixels. Defaults to a minimum of 425px if not provided
+iframeContainerHeight: 525,  // Widget height in pixels. Defaults to a minimum of 425px if not provided
  onOrderComplete: exampleCallback  // Method called when an order has successfully completed
 });
 </script>

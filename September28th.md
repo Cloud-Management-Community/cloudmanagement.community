@@ -6,22 +6,21 @@ Join us this week with Katy Nicholson giving a talk on Endpoint Analytics!
 
 ## Event Registration
 
-<!-- Noscript content for added SEO -->
-<noscript><a href="https://www.eventbrite.com/e/cloud-management-community-live-event-september-28th-registration-167235522951" rel="noopener noreferrer" target="_blank"></noscript>
-<button id="eventbrite-widget-modal-trigger-167235522951" type="button">Register Now</button>
-<noscript></a>Register now on Eventbrite</noscript>
+<div id="eventbrite-widget-container-167235522951"></div>
 <script src="https://www.eventbrite.com/static/widgets/eb_widgets.js"></script>
 <script type="text/javascript">
-var exampleCallback = function() {
-console.log('Order complete!');
-};
-window.EBWidgets.createWidget({
-widgetType: 'checkout',
-eventId: '167235522951',
-modal: true,
-modalTriggerElementId: 'eventbrite-widget-modal-trigger-167235522951',
-onOrderComplete: exampleCallback
-});
+    var exampleCallback = function() {
+        console.log('Order complete!');
+    };
+    window.EBWidgets.createWidget({
+        // Required
+        widgetType: 'checkout',
+        eventId: '167235522951',
+        iframeContainerId: 'eventbrite-widget-container-167235522951',
+        // Optional
+        iframeContainerHeight: 425,  // Widget height in pixels. Defaults to a minimum of 425px if not provided
+        onOrderComplete: exampleCallback  // Method called when an order has successfully completed
+    });
 </script>
 
 

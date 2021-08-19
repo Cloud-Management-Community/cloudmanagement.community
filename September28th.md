@@ -27,7 +27,7 @@ Join us this week with Katy Nicholson giving a talk on Endpoint Analytics!
 ## Social Media Links
 
 ### Twitter
-https://twitter.com/the_cmcommunity
+[The_CMCommunity - Twitter](https://twitter.com/the_cmcommunity)
 
 ### Facebook
 https://www.facebook.com/groups/cloudmc/

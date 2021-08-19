@@ -8,7 +8,6 @@ Join us this week with Katy Nicholson giving a talk on Endpoint Analytics!
 
 <!-- Noscript content for added SEO -->
 <noscript><a href="https://www.eventbrite.com/e/cloud-management-community-live-event-september-28th-registration-167235522951" rel="noopener noreferrer" target="_blank"></noscript>
-<!-- You can customize this button any way you like -->
 <button id="eventbrite-widget-modal-trigger-167235522951" type="button">Register Now</button>
 <noscript></a>Register now on Eventbrite</noscript>
 <script src="https://www.eventbrite.com/static/widgets/eb_widgets.js"></script>

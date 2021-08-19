@@ -18,7 +18,7 @@ Join us this week with Katy Nicholson giving a talk on Endpoint Analytics!
         eventId: '167235522951',
         iframeContainerId: 'eventbrite-widget-container-167235522951',
         // Optional
-        iframeContainerHeight: 525,  // Widget height in pixels. Defaults to a minimum of 425px if not provided
+        iframeContainerHeight: 625,  // Widget height in pixels. Defaults to a minimum of 425px if not provided
         onOrderComplete: exampleCallback  // Method called when an order has successfully completed
     });
 </script>

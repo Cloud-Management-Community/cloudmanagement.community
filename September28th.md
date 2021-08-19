@@ -23,6 +23,7 @@ Join us this week with Katy Nicholson giving a talk on Endpoint Analytics!
     });
 </script>
 
+[Return to Main Page](index.md)
 
 ## Social Media Links
 

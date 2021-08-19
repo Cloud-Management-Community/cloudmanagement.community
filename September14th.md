@@ -6,7 +6,6 @@ Join us this week with Katy Nicholson giving a talk on Endpoint Analytics!
 
 ## Event Registration
 
-
 <div id="eventbrite-widget-container-167198532311"></div>
 <script src="https://www.eventbrite.com/static/widgets/eb_widgets.js"></script>
 <script type="text/javascript">
@@ -22,6 +21,9 @@ iframeContainerHeight: 525,  // Widget height in pixels. Defaults to a minimum o
  onOrderComplete: exampleCallback  // Method called when an order has successfully completed
 });
 </script>
+
+
+[Return to Main Page](index.md)
 
 
 ## Social Media Links

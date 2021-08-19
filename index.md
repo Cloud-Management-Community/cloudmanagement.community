@@ -4,6 +4,15 @@ Welcome to the CloudManagement.Community, the home of Microsoft Cloud Management
 
 Cloud Management refers to the management of end user devices, identities and things using the Microsoft Cloud. We'll focus on MEM (Intune & ConfigMgr) and AzureAD, as well as solutions and add-ons that extend or improve these.
 
+## Upcoming Live Events
+
+### September 14th
+CMC Live - September 14th Event.md
+
+### September 28th
+
+
+
 ## Social Media Links
 
 ### Twitter
@@ -15,22 +24,3 @@ https://www.facebook.com/groups/cloudmc/
 ### YouTube
 https://www.youtube.com/c/cloudmanagementcommunity
 
-## EventBright
-<!-- 
-<script type="text/javascript">var exampleCallback = function() { console.log('Order complete!'); }; window.EBWidgets.createWidget({ // Required widgetType: 'checkout', eventId: '167198532311', iframeContainerId: 'eventbrite-widget-container-167198532311', // Optional iframeContainerHeight: 425, // Widget height in pixels. Defaults to a minimum of 425px if not provided onOrderComplete: exampleCallback // Method called when an order has successfully completed });</script> -->
-
-<div id="eventbrite-widget-container-167198532311"></div>
-<script src="https://www.eventbrite.com/static/widgets/eb_widgets.js"></script>
-<script type="text/javascript">
-var exampleCallback = function() {
-console.log('Order complete!');
-};
-window.EBWidgets.createWidget({
-widgetType: 'checkout',
-eventId: '167198532311',
-iframeContainerId: 'eventbrite-widget-container-167198532311',
-// Optional
-iframeContainerHeight: 425,  // Widget height in pixels. Defaults to a minimum of 425px if not provided
- onOrderComplete: exampleCallback  // Method called when an order has successfully completed
-});
-</script>

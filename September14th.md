@@ -2,7 +2,9 @@
 
 CMC Live is our Bi-Weekly event to showcase Cloud Management technologies.
 
-Join us this week with Katy Nicholson giving a talk on Endpoint Analytics!
+Join us this week with Katy Nicholson giving a talk on Endpoint Analytics and Joymalya Basu Roy giving his talk on improving the end user experience for Hybrid Autopilot.
+
+We'll end the session with our CMC Quiz, as always!
 
 ## Event Registration
 

@@ -1,8 +1,8 @@
-## CMC Live - September 14th Event
+## CMC Live - September 28th Event
 
 CMC Live is our Bi-Weekly event to showcase Cloud Management technologies.
 
-Join us this week with Katy Nicholson giving a talk on Endpoint Analytics!
+Join us for our September 28th Event with Thijs Lecomte giving a talk entitled: "Law and Order: Managing RBAC within MEM"
 
 ## Event Registration
 

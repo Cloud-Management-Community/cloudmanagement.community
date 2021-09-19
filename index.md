@@ -12,6 +12,12 @@ Cloud Management refers to the management of end user devices, identities and th
 ### September 28th
 [September 28th Event Page](September28th.md)
 
+### October 12th
+[October 12th Event Page](October12th.md)
+
+### October 26th
+[October 26th Event Page](October26th.md)
+
 
 ## Social Media Links
 

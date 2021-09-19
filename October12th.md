@@ -1,4 +1,4 @@
-## CMC Live - September 28th Event
+## CMC Live - October 12th Event
 
 CMC Live is our Bi-Weekly event to showcase Cloud Management technologies.
 

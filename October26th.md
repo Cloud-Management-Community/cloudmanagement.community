@@ -1,8 +1,8 @@
-## CMC Live - September 28th Event
+## CMC Live - October 26th Event
 
 CMC Live is our Bi-Weekly event to showcase Cloud Management technologies.
 
-Join us for our October 26th Event
+Join us for our October 26th Event with our guest speaker Donna Ryan, MVP (@TheNotoriousDRR). Donna will be giving a session as a follow up to our intro WIM Witch earlier in year, and will cover the more advanced topics and use cases that Dean wasn't able to figure out!
 
 ## Event Registration
 

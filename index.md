@@ -6,26 +6,18 @@ Cloud Management refers to the management of end user devices, identities and th
 
 ## Upcoming Live Events
 
-### October 26th
-[October 26th Event Page](October26th.md)
-
 ### November 9th
 [November 9th Event Page](November9th.md)
 
 ### Noveber 23rd
 [November 23rd Event Page](November23rd.md)
 
+
 ## Past Live Events
 
-### September 14th
-[September 14th Event Page](September14th.md)
+Our previous events can be found on YouTube!
+https://www.youtube.com/watch?v=6XFa0q3y2GY&list=PLPf4hn8koDW7mYZtGMERVvlgu6KOfe9LM
 
-
-### September 28th
-[September 28th Event Page](September28th.md)
-
-### October 12th
-[October 12th Event Page](October12th.md)
 
 
 

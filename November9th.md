@@ -2,7 +2,7 @@
 
 CMC Live is our Bi-Weekly event to showcase Cloud Management technologies.
 
-Join us for our November 9th Event with our guest speaker Fabian Bader. Fabian will be talking through Microsoft Defender for Endpoint!
+Join us for our November 9th Event with our guest speaker Fabian Bader. Fabian will be talking us through how to "Protect your endpoints from known C2 Feodo servers with Microsoft Defender for Endpoint"
 
 ## Event Registration
 
